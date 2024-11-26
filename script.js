@@ -16,7 +16,7 @@ const pictures = [
 	"pictures/15.jpg",
 	"",
 	"pictures/17.jpg",
-	""
+	"pictures/18.jpg"
 ];
 const messages = [
     "Hi Kiddo",
@@ -36,7 +36,7 @@ const messages = [
     "But now you hardly do 😢", 
     "\n\n\n\n\n\n\n\n"+"I do realise my mistakes 🙇🏻‍♂️",
     "Still I hope to keep this friendship firm, for years to come",
-    "\n\n\n\n\n\n\n\n"+"So, will you keep increasing this count?"+"\n"+"From 3 to ♾️??",
+    "So, will you keep increasing this count?"+"\n"+"From 3 to ♾️??",
 ];
 
 let currentIndex = 0;
